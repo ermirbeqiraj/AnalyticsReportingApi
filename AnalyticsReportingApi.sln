@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyticsReportingApi", "AnalyticsReportingApi\AnalyticsReportingApi.csproj", "{316F2722-7AB6-4376-A3D7-E103F5F03340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316F2722-7AB6-4376-A3D7-E103F5F03340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316F2722-7AB6-4376-A3D7-E103F5F03340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316F2722-7AB6-4376-A3D7-E103F5F03340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316F2722-7AB6-4376-A3D7-E103F5F03340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F79994-3B8D-4012-B8B9-FFDB101C34E9}
+	EndGlobalSection
+EndGlobal
